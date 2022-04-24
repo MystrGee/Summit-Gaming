@@ -1,6 +1,6 @@
-RegisterCommand("help", function()
+RegisterCommand("ghelp", function()
     msg("gaines the thing is working")
-    msg(" this is cool maybe?")
+    msg("it is? good i fucking need help!")
 end, false)
 
 function msg(text)
