@@ -3,6 +3,10 @@
         "client_script",
         "resource_manifest_version",
         "RegisterCommand",
-        "TriggerEvent"
+        "TriggerEvent",
+        "setNotificationTextEntry",
+        "AddTextComponentString",
+        "DrawNoitification",
+        "GiveWeaponToPed"
     ]
 }
