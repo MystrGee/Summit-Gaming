@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "client_script",
+        "resource_manifest_version",
+        "RegisterCommand",
+        "TriggerEvent"
+    ]
+}

@@ -1,8 +1,8 @@
 RegisterCommand("ghelp", function()
-    msg("gaines the thing is working")
-    msg("it is? good i fucking need help!")
+    msg("Gaines, I need help")
+    msg("Everyone is screaming at eachother")
 end, false)
 
 function msg(text)
-    TriggerEvent("chatMessage", "[server]", {255,0,0}, text)
-end 
+    TriggerEvent("chatMessage", "[Gaines crisis system]", {255,0,0}, text)
+end
